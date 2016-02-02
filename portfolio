@@ -7,6 +7,27 @@ body {
 }
 
 h1 {
-    color: orange;
-    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight:900;
+    background-color: #ffffff;
+    font-size: 36px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;    
+    background-color: #ffffff;
+    font-size: 20px;
+    margin-top: 6px;
+    margin-bottom: 4px;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;    
+    font-size: 1.2em;
+    margin: 0px;
+    padding: 0px;
 }
