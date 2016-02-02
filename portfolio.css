@@ -1,6 +1,15 @@
 html{
     height:100%
 }
+header {
+    text-align:left;
+    height: 85px;
+}
+nav {
+    height: 30px;
+    margin: 0px
+}
+
 
 body {
     background-image: url("achtergrond.jpg");
