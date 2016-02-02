@@ -2,9 +2,6 @@ html{
     height:100%
 }
 
-html {
-    background-color:#f9f9f9;
-    color:grey;
-    text-align:left;
-    height: 85px;
+body {
+    background-color: lightblue;
 }
