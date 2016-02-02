@@ -1,7 +1,12 @@
 html{
     height:100%
 }
-
+header {
+    background-color:#ffffff;
+    color:grey;
+    text-align:left;
+    height: 85px;
+}
 body {
     background-image: url("achtergrond.jpg");
 }
