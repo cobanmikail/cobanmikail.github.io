@@ -42,16 +42,16 @@ h3 {
 }
 
 .mikail {
-    width: 250px;
-    height: 250px;
-    margin-right: 100px;
+    width: 240px;
+    height: 249px;
+    margin-right: 80px;
     float: left;
     -webkit-border-radius: 100px;
        -moz-border-radius: 100px;
             border-radius: 100px;
 }
 .info {
-    margin-top:120px;
+    margin-top:160px;
     float: left;
 }
 nav {
