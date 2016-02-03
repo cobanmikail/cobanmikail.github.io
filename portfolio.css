@@ -9,6 +9,7 @@ header .mikail {
     -webkit-border-radius: 100px;
        -moz-border-radius: 100px;
             border-radius: 100px;
+}
 body {
     background-image: url("achtergrond.jpg");
 }
