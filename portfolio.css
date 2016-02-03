@@ -87,3 +87,11 @@ a:active {
     color: purple;
     text-decoration: none;
 }
+
+footer { 
+    	width: 100%;
+	height:30px;
+	position: absolute;
+	background: purple;
+	text-align: center;
+}
