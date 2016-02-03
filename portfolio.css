@@ -4,6 +4,12 @@ html{
 body {
     background-image: url("achtergrond.jpg");
 }
+div #homeContent {
+    float: left;
+    width: calc(100% - 430px);
+    margin: 0px 0px 0px 0px;
+    overflow: auto;
+}
 
 h1 {
     text-align: left;	
