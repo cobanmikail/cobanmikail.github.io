@@ -1,15 +1,15 @@
 /* ----- Timeline ----- */
 .timeline {
       margin: 20px auto; 
-      width: 500px;    /* change timeline width here */
+      width: 600px;    /* change timeline width here */
       overflow: hidden; 
 }
 .timeslot {
-      width: 235px; 
+      width: 240px; 
       float: left;
-      margin: 0 0 10px;
+      margin: 0 0 40px;
       padding: 10px 100px 0 0;
-      border-top: 3px solid #d5d4d5;    /* change left border-top size & color here */
+      border-top: 5px solid #d5d4d5;    /* change left border-top size & color here */
       position: relative;
 }
 .timeslot.first {
