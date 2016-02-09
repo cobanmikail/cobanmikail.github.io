@@ -2,14 +2,14 @@
 .timeline {
       margin: 300px auto ; 
       width: 600px;    /* change timeline width here */
-      overflow: hidden; 
+      overflow: auto; 
 }
 .timeslot {
-      width: 240px; 
-      float: left;
-      margin: 0 0 40px;
+      width: 250px;
+      float: right;
+      margin: 0 0 70px;
       padding: 10px 100px 0 0;
-      border-top: 5px solid #d5d4d5;    /* change left border-top size & color here */
+      border-top: 5px solid #d5d4d5;/* change left border-top size & color here */
       position: relative;
 }
 .timeslot.first {
@@ -17,15 +17,15 @@
 }
 .timeslot span {
       position: absolute;
-      right: 0; top: 20px;
+      right: 0; top: 25px;
       font-size: 3em;
-      line-height: 1em;
+      line-height:2em;
       color: #666;    /* change right date color here */
 }
 .even {
-      float: right; 
-      padding: 10px 0 0 100px;
-      border-color: #244f84;    /* change right border-top size & color here */
+      float: right;
+      padding: 10px 0 0 140px;
+      border-color: #244f84;/* change right border-top size & color here */
 }
 .even span {
       left: 0;
