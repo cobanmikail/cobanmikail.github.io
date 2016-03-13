@@ -3,6 +3,7 @@ html{
 }
 body {
     background-image: url("achtergrond.jpg");
+    padding: 0 15%;
 }
 div #homeContent {
     float: left;
