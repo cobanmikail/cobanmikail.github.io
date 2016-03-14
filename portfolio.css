@@ -2,8 +2,30 @@ html{
     height:100%
 }
 body {
-    background-image: url("achtergrond.jpg");
-    padding: 0 10%;
+  padding: 0 10%;
+  background: #e6e6e6;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+li img {
+  float: left;
+  margin: 0 15px 0 0;
+}
+
+li p {
+  font: 200 12px/1.5 Georgia, Times New Roman, serif;
+}
+
+li {
+  padding: 10px;
+  overflow: auto;
+}
+
+li:hover {
+  background: #eee;
+  cursor: pointer;
+}
+
 }
 div #homeContent {
     float: left;
@@ -115,9 +137,3 @@ footer {
     margin-left: 0px;
     float: left;
 }
-body {
-  background: #e6e6e6;
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-}
-
