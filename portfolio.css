@@ -73,6 +73,13 @@ h3 {
     letter-spacing: 2px;
 } 
 
+#mainpost {
+margin: 0 2em;
+  text-align: left;
+  list-style: none;
+  border-left: 8px solid #1C1D21;
+
+}
 a:link {
     color: purple;
     text-decoration: none;
