@@ -3,5 +3,26 @@ html {
 }
 
 body {
-    padding: 0 15%;
+  padding: 0 10%;
+  background: #e6e6e6;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
 }
+.mikail {
+    width: 240px;
+    height: 249px;
+    margin-right: 80px;
+    margin-top: 15px;
+    margin-left: 15px;
+    float: left;
+    -webkit-border-radius: 100px;
+       -moz-border-radius: 100px;
+            border-radius: 100px;
+}
+#nav {
+    margin-top: 15em;
+    display: block;
+    color: #ddd;
+    font-size: 15px;
+    letter-spacing: 2px;
+} 
