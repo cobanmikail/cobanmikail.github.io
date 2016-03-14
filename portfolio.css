@@ -88,11 +88,10 @@ h3 {
 }*/
 #nav {
     /* float: right; */
-    margin-top: 2em;
-    display: flex;
+    margin-top: 15em;
+    display: block;
     color: #ddd;
     font-size: 15px;
-    font-weight: 10;
     letter-spacing: 2px;
 } 
 #content {
