@@ -87,19 +87,18 @@ h3 {
 }
 #nav {
     float: right;
-    margin-top: 42px;
+    margin-top: 22px;
     display: inline-block;
     color: #ddd;
-    font-size: 14px;
-    font-weight: 300;
+    font-size: 15px;
+    font-weight: 10;
     letter-spacing: 2px;
 } 
 
 #mainpost {
-  margin: 0 1em;
-  margin-top: 400px;
+  margin: 0 -2em;
+  margin-top: 3em;
   text-align: left;
-  list-style: circle;
 
 
 }
