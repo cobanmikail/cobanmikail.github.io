@@ -87,7 +87,7 @@ h3 {
 }
 #nav {
     float: right;
-    margin-top: 22px;
+    margin-top: auto;
     display: inline-block;
     color: #ddd;
     font-size: 15px;
@@ -96,10 +96,7 @@ h3 {
 } 
 #content {
   width: 100%;
-  top: 0;
-  left: 0;
-  right: 0;
-  font-size: 1.2em;
+  font-size: 0.8em;
   text-align: center;
 }
 
