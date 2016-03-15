@@ -91,6 +91,7 @@ h3 {
     letter-spacing: 1em;
 } 
 #content {
+  margin-top: 13em;
   width: 100%;
   font-size: 0.8em;
   text-align: center;
