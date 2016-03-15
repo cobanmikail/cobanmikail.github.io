@@ -20,9 +20,18 @@ body {
             border-radius: 100px;
 }
 #nav {
-    margin-top: 15em;
+    margin-top: 10em;
     display: block;
-    color: #ddd;
+    color: #;
     font-size: 15px;
     letter-spacing: 2px;
 } 
+
+footer {
+    color: purple;
+    clear: both;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 8px;
+    font-size:15px;
+}
