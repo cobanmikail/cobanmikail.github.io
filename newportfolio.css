@@ -19,6 +19,11 @@ body {
        -moz-border-radius: 100px;
             border-radius: 100px;
 }
+#content {
+  width: 100%;
+  font-size: 0.8em;
+  text-align: center;
+}
 #nav {
     margin-top: 10em;
     display: block;
