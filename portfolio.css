@@ -4,7 +4,7 @@ html{
 }
 body {
   padding: 0 10%;
-  background: #e6e6e6;
+  background: #659999;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
 }
@@ -14,12 +14,13 @@ li p {
 }
  
 li {
+  color: #E8EEFC;
   padding: 0.8em;
   overflow: auto;
 }
  
 li:hover {
-  background: #eee;
+  background: #226666;
   cursor: pointer;
 }
  
@@ -103,11 +104,11 @@ h3 {
 }
 
 a:link {
-    color: purple;
+    color: #659999;
     text-decoration: none;
 }
 a:visited {
-    color: purple;
+    color: #003333;
     text-decoration: none;
 }
 a:hover {
@@ -115,13 +116,13 @@ a:hover {
     text-decoration: none;
 }
 a:active {
-    color: purple;
+    color: #FAFFFF;
     text-decoration: none;
 }
  
 footer {
     background-color: #;
-    color: purple;
+    color: #FAFFFF;
     clear: both;
     text-align: center;
     padding-top: 1em;
