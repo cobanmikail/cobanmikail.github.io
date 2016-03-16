@@ -101,6 +101,12 @@ h3 {
     display: flex;
     letter-spacing: 0.07em;
 } 
+#deliverables {
+    text-align: left;
+    margin-top: 15em;
+    display: flex;
+    letter-spacing: 0.08em;
+} 
 #content {
 
   margin-top: 5em;
