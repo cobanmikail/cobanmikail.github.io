@@ -56,8 +56,8 @@ h3 {
     font-family: 'Roboto', sans-serif;
     font-weight: 100;    
     font-size: 16px;
-    margin-top: -1em;
-    margin-bottom: 2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 .center {
     margin: auto;
@@ -113,6 +113,13 @@ h3 {
   font-size: 0.8em;
   text-align: center;
 }
+#dumpyoutube {
+    text-align: left;
+    margin-top: 20em;
+    margin-bottom: -13em;
+    display: flex;
+
+} 
 
 
 a:link {
