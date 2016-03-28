@@ -111,7 +111,6 @@ h4 {
     display: flex;
     letter-spacing: 0.07em;
     font-family: 'Lucida Sans', Arial, sans-serif;
-    box-shadow: 0.0001px 12px 15px rgba(44,179,189,0.27);
 
 } 
 
@@ -121,8 +120,6 @@ h4 {
     display: flex;
     letter-spacing: 0.07em;
     font-family: 'Lucida Sans', Arial, sans-serif;
-    box-shadow: 0.0001px 12px 15px rgba(44,179,189,0.27);
-
 } 
 #deliverables {
     text-align: left;
