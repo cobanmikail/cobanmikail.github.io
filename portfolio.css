@@ -112,6 +112,14 @@ h4 {
 
 } 
 
+#navbarabout {
+    text-align: center;
+    margin-top: 8em;
+    display: flex;
+    letter-spacing: 0.07em;
+    font-family: 'Lucida Sans', Arial, sans-serif;
+
+} 
 #deliverables {
     text-align: left;
     margin-top: 4em;
