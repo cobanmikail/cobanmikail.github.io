@@ -146,7 +146,7 @@ a:hover {
 }
 a:active {
     color: #FAFFFF;
-    text-decoration: none;
+    text-decoration: blink;
 }
  
 footer {
