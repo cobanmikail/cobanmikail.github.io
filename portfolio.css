@@ -103,6 +103,13 @@ h3 {
     display: flex;
     letter-spacing: 0.07em;
 } 
+
+#navbarabout {
+    text-align: center;
+    margin-top: 15em;
+    display: flex;
+    letter-spacing: 0.07em;
+} 
 #deliverables {
     text-align: left;
     margin-top: 4em;
