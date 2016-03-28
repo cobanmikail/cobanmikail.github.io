@@ -88,6 +88,8 @@ h4 {
     margin-left: 1em;
     float: left;
     border-radius: 100px;
+    box-shadow: 0.0001px 10px lightgrey;
+
 }*/
 .info {
     margin-top:160px;
