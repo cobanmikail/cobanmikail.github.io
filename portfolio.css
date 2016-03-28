@@ -130,7 +130,18 @@ h3 {
     display: flex;
 
 } 
-
+a.selected, a.selected:link,
+a.selected:active {
+  display: block;
+  background-color: #066;
+  color: #fff;
+}
+#nav a.selected:hover,
+a.selected:active {
+  display: block;
+  background-color: #066;
+  color: #fff;
+}
 
 a:link {
     color: #659999;
